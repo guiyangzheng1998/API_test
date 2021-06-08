@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DO_JSON:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DO_JSON_jar</output-path>
+    <root id="archive" name="DO_JSON.jar">
+      <element id="module-output" name="DO_JSON" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/ojdbc8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/fastjson-1.2.76.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/c3p0-0.9.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/c3p0-oracle-thin-extras-0.9.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mchange-commons-java-0.2.19.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
